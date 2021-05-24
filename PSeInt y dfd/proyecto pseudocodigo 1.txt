@@ -1,0 +1,17 @@
+1.Inicio
+2.Definir constante hora como real
+3.Definir varaibles area u nombre como caracter
+4.Definir constante contraseña como entero
+5.Leer constante hora 
+6.Leer variable area
+7.Comparar area si es igual a verificacion1
+8.si es igual encontrar area asignada
+9.Si no es igual no se encuentra el area
+10.Leer variable nombre
+11.leer constante contraseña
+12.Comparar contraseña si es igual a verificacion2
+13.si es igual conceder acceso con hora de ingreso
+14.Si no es igual denegar el acceso. 
+
+
+ 
